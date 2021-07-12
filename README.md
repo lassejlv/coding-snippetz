@@ -12,7 +12,7 @@ Description: With this snippet can you setup and simple express app <br/>
 
 ##### Simple Express Router Setup
 
-Prefix: !express-router <br/>
+Prefix: <code>!express-router</code> <br/>
 Description: With this snippet can you setup and simple express router template<br />
 
 ##### Simple Express HTML Setup
