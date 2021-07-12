@@ -1,6 +1,6 @@
 ## Coding Snippetz
 
-<p>About</p> <br/>
+<p>About</p>
 <p>Coding Snippets allows you to easily generate code for your projects</p>
 
 ## Express Snippets
