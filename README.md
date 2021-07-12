@@ -7,7 +7,7 @@
 
 ##### Simple Express Setup
 
-Prefix: !express <br/>
+Prefix: <code>!express</code> <br/>
 Description: With this snippet can you setup and simple express app <br/>
 
 ##### Simple Express Router Setup
@@ -17,14 +17,14 @@ Description: With this snippet can you setup and simple express router template<
 
 ##### Simple Express HTML Setup
 
-Prefix: !express-html <br/>
+Prefix: <code>!express-html</code> <br/>
 Description: With this snippet can you setup express HTML setup, so you can use html on your express server!
 
 ## React Snippets
 
 ##### Simple React file Setup
 
-Prefix: !react <br/>
+Prefix: <code>!react</code> <br/>
 Description: With this snippet can you setup a simple react website file, so you can use it for your application!
 
 ## Version
