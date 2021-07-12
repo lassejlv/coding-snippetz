@@ -2,7 +2,7 @@
 
 📰 Whats new?
 
-✅ More Express Snippets
+✅ More Express Snippets <br />
 ✅ React Snippets Added!
 
 #### Version
