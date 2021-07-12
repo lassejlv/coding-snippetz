@@ -14,4 +14,4 @@ v0.0.1
 
 ## Download
 
-If you will download Coding Snippetz, so Click [here]("https://marketplace.visualstudio.com/items?itemName=DevLasseV.coding-snippetz")
+If you will download Coding Snippetz, so Click [here](https://marketplace.visualstudio.com/items?itemName=DevLasseV.coding-snippetz)
