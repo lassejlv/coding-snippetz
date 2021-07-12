@@ -1,0 +1,30 @@
+{
+  "name": "coding-snippetz",
+  "displayName": "Coding SnippetZ",
+  "description": "An easy way to generate code for your project!",
+  "version": "0.0.2",
+  "publisher": "DevLasseV",
+  "homepage": "https://github.com/devlassev/coding-snippetz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devlassev/coding-snippetz"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "dependencies": {
+    "conmaster.js": "^1.1.4"
+  }
+}
