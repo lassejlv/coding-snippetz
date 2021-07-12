@@ -29,7 +29,7 @@ Description: With this snippet can you setup a simple react website file, so you
 
 ## 🆚 Version
 
-v0.0.2
+### v0.0.2
 
 ## 📩 Download
 
