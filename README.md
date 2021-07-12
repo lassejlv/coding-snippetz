@@ -1,4 +1,4 @@
-## Coding Snippetz
+## 🔫 Coding Snippetz
 
 <p>About</p>
 <p>Coding Snippets allows you to easily generate code for your projects</p>
@@ -27,10 +27,10 @@ Description: With this snippet can you setup express HTML setup, so you can use 
 Prefix: <code>!react</code> <br/>
 Description: With this snippet can you setup a simple react website file, so you can use it for your application!
 
-## Version
+##🆚 Version
 
 v0.0.2
 
-## Download
+##📩 Download
 
 If you will download Coding Snippetz, so Click [here](https://marketplace.visualstudio.com/items?itemName=DevLasseV.coding-snippetz)
