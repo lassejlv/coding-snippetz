@@ -1,0 +1,56 @@
+{
+  "generate a html template": {
+    "prefix": "doctype",
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "<meta charset=\"UTF-8\">",
+      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+      "<meta name=\"Description\" content=\"Enter your description here\"/>",
+      "<link rel=\"stylesheet\" href=\"styles.css\">",
+      "<title>${1:Title}</title>",
+      "</head>",
+      "<body>",
+      "$0",
+      "</body>",
+      "</html>"
+    ]
+  },
+
+  "generate h1": {
+    "prefix": "h1",
+    "body": ["<h1></h1>"]
+  },
+
+  "generate h2": {
+    "prefix": "h2",
+    "body": ["<h2></h2>"]
+  },
+
+  "generate h3": {
+    "prefix": "h3",
+    "body": ["<h3></h3>"]
+  },
+
+  "generate h4": {
+    "prefix": "h4",
+    "body": ["<h4></h4>"]
+  },
+
+  "generate h5": {
+    "prefix": "h5",
+    "body": ["<h5></h5>"]
+  },
+
+  "generate h6": {
+    "prefix": "h6",
+    "body": ["<h6></h6>"]
+  },
+
+  "generate a body": {
+    "prefix": "body",
+    "body": ["<html>", "<body>", "", "", "", "</body>", "</html>"]
+  }
+}
