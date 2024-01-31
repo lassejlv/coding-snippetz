@@ -43,4 +43,4 @@ Prefix: <code>h1, h2, h3, h4, h5, h6</code> <br/>
 
 ## 📩 Download
 
-If you will download Coding Snippetz Click [here](https://hypllurls.herokuapp.com/dWALeUu8p)
+If you will download Coding Snippetz Click [here]([https://hypllurls.herokuapp.com/dWALeUu8p](https://marketplace.visualstudio.com/items?itemName=DevLasseV.coding-snippetz)https://marketplace.visualstudio.com/items?itemName=DevLasseV.coding-snippetz)
